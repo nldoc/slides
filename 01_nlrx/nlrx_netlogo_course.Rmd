@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## The nlrx R package: A next‐generation framework for reproducible NetLogo model analyses
-<center><img src="logo_tool_linkage.png" align="center" width="70%" /><br>
+<center><img src="media/logo_tool_linkage.png" align="center" width="70%" /><br>
 https://github.com/ropensci/nlrx
 
 Jan Salecker <font size="3">jsaleck@gwdg.de</font>, Marco Sciaini <font size="3">msciain@gwdg.de</font>,<br>
@@ -37,7 +37,7 @@ Typical model analyses, such as
 
 ## Existing Tools
 
-<img src="behaviorspace.png" align="right" width="310" />
+<img src="media/behaviorspace.png" align="right" width="310" />
 Some NetLogo tools already exist, each with its own caveats: 
 
 - NetLogo GUI /NetLogo Code
@@ -70,35 +70,42 @@ Some NetLogo tools already exist, each with its own caveats:
 
 ## nlrx workflow
 
-<center><img src="nlrx_flowchart.png" align="center" width="80%" /></center>
+<center><img src="media/nlrx_flowchart.png" align="center" width="80%" /></center>
+
+<font size="2">Salecker et al. 2019</font>
 
 ## Simdesign examples
 
-<center><img src="simdesigns.png" align="center" width="80%" /></center>
+<center><img src="media/simdesigns.png" align="center" width="80%" /></center>
 
 ## Performance
 
-<center><img src="nlrx_benchmarks.png" align="center" width="80%" /></center>
+<center><img src="media/nlrx_benchmarks.png" align="center" width="80%" /></center>
+
+<font size="2">Salecker et al. 2019</font>
 
 ## Analysis Example I - Sensitivity Analysis
 
-<img src="Ants_sobol.png" width="80%" />
+<center><img src="media/Ants_sobol.png" width="80%" /></center>
+
+<font size="2">Salecker et al. 2019</font>
 
 ## Analysis Example II - Genetic Algorithm
 
-<img src="Ants_genalg.png" width="80%" />
+<center><img src="media/Ants_genalg.png" width="70%" /></center>
 
+<font size="2">Salecker et al. 2019</font>
 
 ## Visualization examples I
 
 - nlrx is also useful to collect agent related spatial data
 - such data can be used to create animated figures with enhanced visualization options (ggplot2, gganimate)
 
-<img src="diffusion.gif" width="30%" /> <img src="fire.gif" width="30%" /> <img src="flocking_spoke.gif" width="30%" />
+<img src="media/diffusion.gif" width="30%" /> <img src="media/fire.gif" width="30%" /> <img src="media/flocking_spoke.gif" width="30%" />
 
 ## Visualization examples II
 
-<center><img src="ClimateChange.gif" width="65%" /></center>
+<center><img src="media/ClimateChange.gif" width="65%" /></center>
 
 ## Contribute
 
@@ -107,10 +114,10 @@ Some NetLogo tools already exist, each with its own caveats:
 
 - Big thanks to rOpenSci for reviewing and hosting our package!
 
-<img src="ropensci_footer.png" width="80%" />
+<img src="media/ropensci_footer.png" width="80%" />
 
 ## Questions?
-<center><img src="logo_tool_linkage.png" align="center" width="70%" /><br>
+<center><img src="media/logo_tool_linkage.png" align="center" width="70%" /><br>
 https://github.com/ropensci/nlrx
 
 Jan Salecker <font size="3">jsaleck@gwdg.de</font>, Marco Sciaini <font size="3">msciain@gwdg.de</font>,<br>
