@@ -4,6 +4,7 @@ author: "Jan Salecker"
 date: "2019 M08 20"
 output:
   ioslides_presentation: default
+  beamer_presentation: default
   slidy_presentation: default
 ---
 
