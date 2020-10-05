@@ -3,9 +3,9 @@ title: "There is an elephant in the room..."
 author: "Jan Salecker >> jsaleck@gwdg.de"
 date: "2020 M08 04"
 output:
-  ioslides_presentation: default
   beamer_presentation: default
   slidy_presentation: default
+  ioslides_presentation: default
 ---
 
 ```{r setup, include=FALSE}
@@ -16,9 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## There is an elephant in the room...
 
-<center>
-<img src="media/title_figure.png" align="center" width="90%" /><br><br>
-</center>
+![](media/title_figure.png){width=90%}
 
 
 # Motivation
@@ -41,18 +39,16 @@ My current R workflow consists of:
 
 ## Route to SQL step 1: The Ignorant
 
-<img src="media/workflow_step1.png" align="center" width="90%" />
-
-
+![](media/workflow_step1.png){width=90%}
 
 ## Route to SQL step 2: The educated
 
-<img src="media/workflow_step2.png" align="center" width="90%" />
+![](media/workflow_step2.png){width=90%}
 
 
 ## Route to SQL step 3: The sophisticated
 
-<img src="media/workflow_step3.png" align="center" width="90%" />
+![](media/workflow_step3.png){width=90%}
 
 
 ## Lessons learned
